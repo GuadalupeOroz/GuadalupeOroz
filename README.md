@@ -32,7 +32,7 @@ Building scalable software with modern technologies, focusing on backend develop
 
 ---
 
-# 💻 Tech Stack
+
 
 ### Languages
 
