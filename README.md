@@ -54,13 +54,13 @@ mobile applications, software architecture and artificial intelligence.
 </p>
 
 -----------
-## 📊 GitHub Stats
+## 📊 GitHub Summary
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuadalupeOroz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuadalupeOroz&theme=tokyonight)
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuadalupeOroz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuadalupeOroz&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuadalupeOroz&theme=tokyonight)
 ## 🔥 Contribution Streak
 
 <p>
