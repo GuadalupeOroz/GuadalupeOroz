@@ -1,91 +1,167 @@
 <div align="center">
 
-# Hi 👋 I'm Guadalupe Orozco
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=220&section=header&text=Guadalupe%20Orozco&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 ### Software Engineer • Full Stack Developer • Mobile Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Java+%7C+Kotlin+%7C+Swift+%7C+Python;Spring+Boot+%7C+React+%7C+PostgreSQL;Docker+%7C+Git+%7C+REST+APIs;AI+%7C+MQTT+%7C+Distributed+Systems"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Java+%7C+Kotlin+%7C+Swift+%7C+Python;Spring+Boot+%7C+React+%7C+PostgreSQL;Docker+%7C+Git+%7C+REST+APIs;Artificial+Intelligence+%7C+MQTT+%7C+Distributed+Systems"/>
 
-Building scalable software with modern technologies, focusing on backend development,
-mobile applications, software architecture and artificial intelligence.
+<br>
 
-<br><br>
+Building scalable software with modern technologies, focusing on backend development, mobile applications, software architecture and artificial intelligence.
 
-<a href="https://linkedin.com/in/TU-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br>
+
+<a href="https://github.com/GuadalupeOroz">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:guadalupeorozcohe@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://TU-PORTAFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://linkedin.com/in/TU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=0e75b6"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=GuadalupeOroz&style=for-the-badge&color=58A6FF"/>
 
 </div>
-----------
-## 💻 Tech Stack
 
-**Languages**
+---
+
+# 💻 Tech Stack
+
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,kotlin,swift,python,c,js"/>
 </p>
 
-**Frameworks & Libraries**
+### Frameworks & Libraries
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,react"/>
 </p>
 
-**Databases**
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase"/>
 </p>
 
-**Tools**
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea,netbeans"/>
 </p>
 
------------
-## GitHub Summary
+---
+
+# 📊 GitHub Analytics
 
 <table>
 <tr>
 
 <td width="70%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuadalupeOroz&theme=tokyonight" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuadalupeOroz&theme=tokyonight" width="100%"/>
 
 </td>
 
 <td width="30%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuadalupeOroz&theme=tokyonight" width="95%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuadalupeOroz&theme=tokyonight" width="100%"/>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuadalupeOroz&theme=tokyonight" width="95%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuadalupeOroz&theme=tokyonight" width="100%"/>
 
 </td>
 
 </tr>
 </table>
 
+---
+
+# 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GuadalupeOroz&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=GuadalupeOroz&theme=tokyonight&hide_border=true&border_radius=12"/>
 </p>
 
 ---
-## Contribution Graph
 
-[![Guadalupe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuadalupeOroz&theme=tokyo-night&hide_border=true)](https://github.com/GuadalupeOroz)
+# Development Activity
+
+<p align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GuadalupeOroz&theme=tokyo-night&hide_border=true)](https://github.com/GuadalupeOroz)
+
+</p>
+
+---
+# 💭 Philosophy
+
+> "Great software is built through continuous learning, clean architecture and attention to detail."
+
+
+
+<!--
+DESCOMENTA ESTA SECCIÓN CUANDO FUNCIONE EL WORKFLOW snake.yml
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/GuadalupeOroz/GuadalupeOroz/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/GuadalupeOroz/GuadalupeOroz/output/github-contribution-grid-snake.svg"/>
+
+<img alt="Snake Animation"
+src="https://raw.githubusercontent.com/GuadalupeOroz/GuadalupeOroz/output/github-contribution-grid-snake.svg"/>
+
+</picture>
+
+</p>
+
+---
+-->
+
+# 📫 Let's Connect
+
+I'm always open to collaborating on innovative projects, sharing knowledge, and connecting with developers around the world.
+
+<p>
+
+<a href="https://github.com/GuadalupeOroz">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:guadalupeorozcohe@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/TU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you enjoy my work, feel free to explore my repositories and connect with me.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=160&section=footer"/>
+
+</div>
