@@ -54,39 +54,38 @@ mobile applications, software architecture and artificial intelligence.
 </p>
 
 -----------
-## 📊 GitHub Summary
+## GitHub Summary
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuadalupeOroz&theme=tokyonight)
+<table>
+<tr>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuadalupeOroz&theme=tokyonight)
+<td width="70%">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuadalupeOroz&theme=tokyonight)
-## 🔥 Contribution Streak
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuadalupeOroz&theme=tokyonight" width="100%">
 
-<p>
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
-</p>
+</td>
 
----
-## 🐍 Contribution Snake
+<td width="30%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuadalupeOroz&theme=tokyonight" width="95%">
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuadalupeOroz&theme=tokyonight" width="95%">
+
+</td>
+
+</tr>
+</table>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/GuadalupeOroz/GuadalupeOroz/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/GuadalupeOroz/GuadalupeOroz/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/GuadalupeOroz/GuadalupeOroz/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=GuadalupeOroz&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 
 ---
+## Contribution Graph
+
+[![Guadalupe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuadalupeOroz&theme=tokyo-night&hide_border=true)](https://github.com/GuadalupeOroz)
+
+---
+
