@@ -32,7 +32,7 @@ Building scalable software with modern technologies, focusing on backend develop
 
 ---
 
-
+# 💻 Tech Stack
 
 ### Languages
 
@@ -57,6 +57,15 @@ Building scalable software with modern technologies, focusing on backend develop
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea,netbeans"/>
 </p>
+
+---
+# 👋 About Me
+
+Software Engineer focused on backend development, native mobile applications and software architecture.
+
+I enjoy building scalable systems, designing REST APIs, working with databases and continuously learning technologies that help solve real-world problems.
+
+Currently working with Java, Spring Boot, Kotlin, Swift, PostgreSQL and modern development 
 
 ---
 
@@ -85,22 +94,25 @@ Building scalable software with modern technologies, focusing on backend develop
 </table>
 
 ---
-
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=GuadalupeOroz&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=GuadalupeOroz&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# Development Activity
+## 📈 Development Activity
 
 <p align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GuadalupeOroz&theme=tokyo-night&hide_border=true)](https://github.com/GuadalupeOroz)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuadalupeOroz&theme=tokyo-night&hide_border=true"/>
 
 </p>
+
+---
 
 ---
 # 💭 Philosophy
@@ -108,9 +120,6 @@ Building scalable software with modern technologies, focusing on backend develop
 > "Great software is built through continuous learning, clean architecture and attention to detail."
 
 
-
-<!--
-DESCOMENTA ESTA SECCIÓN CUANDO FUNCIONE EL WORKFLOW snake.yml
 
 # 🐍 Contribution Snake
 
@@ -132,11 +141,11 @@ src="https://raw.githubusercontent.com/GuadalupeOroz/GuadalupeOroz/output/github
 </p>
 
 ---
--->
 
-# 📫 Let's Connect
 
-I'm always open to collaborating on innovative projects, sharing knowledge, and connecting with developers around the world.
+## 📫 Let's Connect
+
+I'm always open to collaborating on innovative projects, sharing knowledge and connecting with developers around the world.
 
 <p>
 
@@ -154,14 +163,14 @@ I'm always open to collaborating on innovative projects, sharing knowledge, and 
 
 </p>
 
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting! 👋
 
-If you enjoy my work, feel free to explore my repositories and connect with me.
+**Always learning • Always building • Always improving**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=160&section=footer"/>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=170&section=footer"/>
 
 </div>
