@@ -113,18 +113,10 @@ Currently working with Java, Spring Boot, Kotlin, Swift, PostgreSQL and modern d
 </p>
 
 ---
----
+# 💭 Philosophy
 
-# 📈 GitHub Metrics
-
-<p align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/GuadalupeOroz/GuadalupeOroz/main/github-metrics.svg"/>
-
-</p>
-
----
-
+> "Great software is built through continuous learning, clean architecture and attention to detail."
+> Building scalable backend systems, native mobile applications and modern software solutions.
 # 🐍 Contribution Snake
 
 <p align="center">
