@@ -137,11 +137,9 @@ src="https://raw.githubusercontent.com/GuadalupeOroz/GuadalupeOroz/output/github
 </p>
 
 ---
-
-
 ## 📫 Let's Connect
 
-I'm always open to collaborating on innovative projects, sharing knowledge and connecting with developers around the world.
+I'm always open to collaborating on innovative projects, sharing knowledge, and connecting with developers around the world.
 
 <p>
 
@@ -153,11 +151,13 @@ I'm always open to collaborating on innovative projects, sharing knowledge and c
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/guadalupe-orozco-hern%C3%A1ndez-7b7512408">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
+
+---
 
 <div align="center">
 
